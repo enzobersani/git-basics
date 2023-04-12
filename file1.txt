@@ -1,1 +1,2 @@
 Hello, world!
+More changes to file1
